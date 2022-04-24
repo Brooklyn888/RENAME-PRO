@@ -7,13 +7,13 @@ from helper.database import  insert
 async def start(client,message):
 	insert(int(message.chat.id))
 	await message.reply_text(text =f"""
-	ʜᴇʟʟᴏ 👋 {message.from_user.first_name }
+    𝐇𝐞𝐥𝐥𝐨 𝐃𝐮𝐝𝐞!{message.from_user.first_name }
 	
 ➠ ɪ'ᴍ ᴀ ᴛɢ ꜰɪʟᴇ & ᴠɪᴅᴇᴏ ʀᴇɴᴀᴍᴇʀ ʙᴏᴛ
 
 ➠ ɪ ᴄᴀɴ ʀᴇɴᴀᴍᴇ ✍️ ᴀɴʏ ꜰɪʟᴇ 🗃️ ᴡɪᴛʜ ᴄᴜꜱᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ꜱᴜᴘᴘᴏʀᴛ & ʀᴇᴜᴘʟᴏᴀᴅ ɪᴛ ᴛᴏ ᴛɢ ᴀꜱ ᴀ ꜰɪʟᴇ 🗃️ ᴏʀ ᴠɪᴅᴇᴏ 📷
        
-➠ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ᴡɪᴛʜ ❤️ ʙʏ : @ChVivekTomar
+➠ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ᴡɪᴛʜ ❤️ ʙʏ : @bruce_3_33
 	""",reply_to_message_id = message.message_id ,  
 	reply_markup=InlineKeyboardMarkup(
 	 [[ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/ItsAll_AboutMe") ]  ]))
