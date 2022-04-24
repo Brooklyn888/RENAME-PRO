@@ -40,7 +40,7 @@ A File Rename Bot with Custom Thumbnail Support
 
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/im-vivektomar/RENAME-PRO)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Brooklyn888/RENAME-PRO)
 
 
 
@@ -70,5 +70,5 @@ A File Rename Bot with Custom Thumbnail Support
 ##  CONTACT ME ON ⬇️ 
 
 <p align="left">
-<a href="https://t.me/ChVivekTomar"><img src="https://img.shields.io/badge/My%20TG%20ID-Vivek%20Tomar-darkblue?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/bruce_3_33"><img src="https://img.shields.io/badge/My%20TG%20ID-Vivek%20Tomar-darkblue?style=for-the-badge&logo=telegram"></a>
 </p>
